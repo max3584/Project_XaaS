@@ -1,7 +1,7 @@
 ---
-name: 質問
+name: Question
 about: ソフトウェアやプロジェクトについての質問をする
-title: '[質問] 質問のタイトル'
+title: '[Question] Question Title'
 labels: question
 assignees: ''
 
