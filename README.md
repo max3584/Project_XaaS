@@ -11,3 +11,4 @@ Project XaaSは、IaaS,PaaS,NaaSを中心とした、サービスです。
 + v1.0.0 : First Release Verison
 + v1.0.1 : DDNS Record Bug => [registry_bug](bugs/ddns/ddns_registor.md)
 + v1.0.2 : DDNS Record Page Bug => [registry_page](bugs/ddns/ddns_page.md)
++ v1.0.5 : Update log => [20250714](updates/20250714.md)
